@@ -8,6 +8,9 @@ namespace CSharp_Net_module1_1_2_lab
 {
     class Program
     {
+		//RV: I see your program but cannot neither open it in visual studio nor run because it doesn't belong to any project and no project file.
+		//RV: For the following labs please create project if there is no one in the template. 
+		//RV: If there are any questions regarding this we can discuss it on a lesson. 
         static void Main(string[] args)
         {
             // Use "Debugging" and "Watch" to study variables and constants
